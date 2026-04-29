@@ -133,3 +133,5 @@ manager := &carservice.AppointmentManager{}
 	err = manager.CancelAppointment("")
 	fmt.Println("Пустой номер:", err)
 }
+
+// проверка
